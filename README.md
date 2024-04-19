@@ -1,4 +1,4 @@
-# Data Model Fundamentals - Practice: Data Cleaning & Relationship
+# Data Model Fundamentals: Data Cleaning & Relationship
 
 This repository contains a practice exercise to apply the data modeling and relationship concepts learned in the course. The goal of this exercise is to analyze the given data and answer the following questions:
 
